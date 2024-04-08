@@ -1,0 +1,66 @@
+[
+  {
+    "id" : 21,
+    "title" : "Vintage White Plead Jeans",
+    "price" : "$110.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/c1aa8056-fad2-4040-b6e5-a6aaefa102b4",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/1c9ff87f-5fcd-4586-bf70-2f4bb899a2d8",
+    "detail" : "" 
+  },
+  {
+    "id" : 22,
+    "title" : "Embossed Washed-Out Denim Pants (Washed-Blue)",
+    "price" : "$112.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/6c15d20f-1325-409c-a0ba-8dfdfa9d9622",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/ebc2652a-1e41-415e-ab55-725fa5f8e60b",
+    "detail" : "" 
+  },
+  {
+    "id" : 23,
+    "title" : "Dusty Embossed Washed Denim Pants (Dusty-Grey)",
+    "price" : "$125.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/8ff35aab-e5c9-4b79-972d-5e8669a28c8b",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/53d9e328-f665-48b3-b0e1-22a992434802",
+    "detail" : ""
+  },
+  {
+    "id" : 24,
+    "title" : "Mud Washed Pledged Jeans (Vintage-Blue)",
+    "price" : "$120.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/c8438d90-2ecf-4baf-b280-1194e8fc94fa",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/94fedceb-a254-4395-9e46-e20f566fa365",
+    "detail" : ""
+  },
+  {
+    "id" : 25,
+    "title" : "Bleached Sand Washed Denim Pants (Light-Blue)",
+    "price" : "$112.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/cda400a6-c8d7-404b-9e83-03a3f9948ca1",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/cac57da5-4746-482b-b912-5fef9ecc2ede",
+    "detail" : ""
+  },
+  {
+    "id" : 26,
+    "title" : "Straight Leg Destroyed Jeans (Washed-Blue)",
+    "price" : "$112.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/65fd8770-683f-421b-9f32-271bff9905d9",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/55f154e4-00f3-44f9-82bb-85636c2f7946",
+    "detail" : ""
+  }, 
+  {
+    "id" : 27,
+    "title" : "Wide Leg Tint Jeans (Indigo-Brown)",
+    "price" : "$112.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/5b60a498-dfee-4b15-8773-940aa3813bc6",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/aaf5d389-6b45-4b37-a4e1-36d443edb2e6",
+    "detail" : ""
+  }, 
+  {
+    "id" : 28,
+    "title" : "Wide Leg Garment Dying Jeans",
+    "price" : "$112.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/c0930fd8-5593-428e-b1e5-c9edea58462f",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/943f3fc7-8870-4a2f-86f3-921946e16b19",
+    "detail" : ""
+  }
+]
