@@ -1,0 +1,34 @@
+[
+  {
+    "id" : 52,
+    "title" : "Straight Leg Destroyed Jeans (Washed-Blue)",
+    "price" : "$112.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/3485e770-31b1-4e06-8dfa-10011e6ec386",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/b7a7701b-d2f5-40de-94d4-82f99a95ff51",
+    "detail" : "" 
+  },
+  {
+    "id" : 53,
+    "title" : "Wide Leg Tinted Jeans (Indigo-Brown)",
+    "price" : "$112.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/42aa19f9-7151-419d-ac51-1527e3b4fd88",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/a9bd7ffb-e5bc-4bb2-bd02-c460cd3b9ddf",
+    "detail" : "" 
+  },
+  {
+    "id" : 54,
+    "title" : "Wide Leg Garment Dying Jeans (Toff)",
+    "price" : "$125.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/fa40d4db-ce30-45d3-be4f-0f7da6895e35",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/3ec2e2ed-9de5-4510-9c25-77fb99768594",
+    "detail" : "" 
+  },
+  {
+    "id" : 55,
+    "title" : "Fading Panel Denim Pants (Blue)",
+    "price" : "$120.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/2bc16736-e116-4901-8e2e-3fbd8843b42b",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/775c889e-2bd6-42f4-8411-a489696a2acd",
+    "detail" : "" 
+  }
+]
