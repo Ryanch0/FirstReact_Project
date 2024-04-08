@@ -1,0 +1,82 @@
+[
+  {
+    "id" : 29,
+    "title" : "Classic One Tuck Chino Pants (Beige)",
+    "price" : "$135.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/9b7ab880-c848-4cdd-9630-2034b2450e29",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/892a0e51-d945-42cb-8c90-f61087e48a16",
+    "detail" : "" 
+  },
+  {
+    "id" : 30,
+    "title" : "Garment Washed Out Mall-Skin One Tuck Chino pants (Grey-Green)",
+    "price" : "$153.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/d102d8fc-ea14-496b-a674-ee63fa9f6723",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/c587ae3c-33ec-4d85-b59c-0692c21cc29c",
+    "detail" : "" 
+  },
+  {
+    "id" : 31,
+    "title" : "Garment Dying Essential Sweat Pants (Washed-Grey)",
+    "price" : "$105.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/3f54ddd0-ee3d-4e57-9959-53a3284c8dd1",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/52571ad3-8f2b-4550-b7a4-e5f2d1407819",
+    "detail" : ""
+  },
+  {
+    "id" : 32,
+    "title" : "Garment Dying Essential Sweat Pants (Washed-Charcoal)",
+    "price" : "$105.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/97fd3d92-2546-43a0-b619-74c489c8c9b3",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/bd867152-5b97-45a0-92d4-22d5a6d196c0",
+    "detail" : ""
+  },
+  {
+    "id" : 33,
+    "title" : "Low Cut Three Pleated Trouser (Charcoal-Grey Melange)",
+    "price" : "$175.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/2670101b-e548-4c05-9dae-b2c0efa433fd",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/fd6155c0-949e-41b2-bb55-b028846ddd07",
+    "detail" : ""
+  },
+  {
+    "id" : 34,
+    "title" : "Low Cut Three Pleated Trouser (Dark-Brown Melange)",
+    "price" : "$175.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/da287da8-4504-4038-8f07-c48caee93754",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/a3c5e95c-1820-43b5-8831-07e7f0a97172",
+    "detail" : ""
+  }, 
+  {
+    "id" : 35,
+    "title" : "Garment Washed Mol-Skin One Tuck Chino Pants (Black)",
+    "price" : "$153.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/e00ea10f-b971-4184-8b3d-87dc785e1820",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/08742145-8142-4a34-aaa4-fff635235f00",
+    "detail" : ""
+  }, 
+  {
+    "id" : 36,
+    "title" : "Cotton Pigment Dying Cargo Pants (Washed-Charcoal Grey) ",
+    "price" : "$153.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/de1b96d6-39ee-4732-8980-f8e28477916f",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/fc61b22c-ab2e-4ebd-84ff-167978321fa0",
+    "detail" : ""
+  },
+  {
+    "id" : 37,
+    "title" : "Wide Pocket Work-Pants (Beige)",
+    "price" : "$175.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/5b641b82-df54-4bdf-ba37-7cdcdf983de3",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/babb032d-332a-47b5-9d6c-e5086238f389",
+    "detail" : ""
+  },
+  {
+    "id" : 38,
+    "title" : "Wide Pocket Work-Pants (Charcoal-Grey)",
+    "price" : "$175.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/a73e5b01-9281-4860-82dc-aa5a9f1a2df8",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/6e51aded-a29f-44e0-adea-df9e345f48ca",
+    "detail" : ""
+  }
+]
