@@ -1,0 +1,50 @@
+[
+  {
+    "id" : 56,
+    "title" : "Garment Dying Essential Sweat Pants (Washed-Grey)",
+    "price" : "$105.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/f335185d-a992-4e1d-b47a-8bf6fa9d07f9",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/c2d8068a-330d-4b28-8c93-2f873efbe6d4",
+    "detail" : "" 
+  },
+   {
+    "id" : 57,
+    "title" : "Garment Dying Essential Sweat Pants (Washed-Charcoal)",
+    "price" : "$105.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/ef38ba4d-7466-44f3-aa5e-357669586269",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/f870eebb-8c39-456f-8696-f57f3989b3ce",
+    "detail" : "" 
+  },
+   {
+    "id" : 58,
+    "title" : "Multi-Color Cargo Trouser (Multi-Mocha Green)",
+    "price" : "$126.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/222f1527-331b-489b-9e85-40e2ace6b373",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/a9897570-0fe0-4837-a67e-44c9256d3529",
+    "detail" : "" 
+  },
+   {
+    "id" : 59,
+    "title" : "Crossover Blend Five-Pocket Trouser (Greenish-Gray)",
+    "price" : "$153.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/c8476d87-c8fa-4b68-b7db-02f8d4abbd3f",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/cb0d3e58-a147-4455-8cd2-d2d104131cfc",
+    "detail" : "" 
+  },
+   {
+    "id" : 60,
+    "title" : "Wide Leg Chinch Side Chino pants (Beige)",
+    "price" : "$130.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/2da0a07d-b962-4da0-b03e-b1763a7629d2",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/33b61ed1-5591-4aef-ab23-6fd3464d1ef0",
+    "detail" : "" 
+  },
+   {
+    "id" : 61,
+    "title" : "Stripe Wool Wide Trouser (Grey)",
+    "price" : "$153.00",
+    "src" : "https://github.com/Ryanch0/imageData/assets/165358637/ed06c2e5-577f-42f4-bfdc-07500d90c2ed",
+    "subsrc" : "https://github.com/Ryanch0/imageData/assets/165358637/ddbfd8b0-5acb-4569-ad68-81539318b7d7",
+    "detail" : "" 
+  }
+]
