@@ -27,15 +27,15 @@ Liberté et Amour 프랑스어로 “자유와 사랑”을 의미합니다. 자
 <br></br>
 
 ## 화면 구성
-<table>
+<table style="width:100%">
   <tr>
     <td align="center">
-      <img src="https://github.com/Ryanch0/First_Project/assets/165358637/0cfbdbcc-4697-4b2b-a8c7-0e4d7c68c3a7" width="470px" />
+      <img src="https://github.com/Ryanch0/First_Project/assets/165358637/0cfbdbcc-4697-4b2b-a8c7-0e4d7c68c3a7" width="450px" />
       <br>
       <b>PC버전 메인페이지</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Ryanch0/First_Project/assets/165358637/210b9cbc-2d2c-4d18-9d0d-1c8750080180" width="470px" />
+      <img src="https://github.com/Ryanch0/First_Project/assets/165358637/210b9cbc-2d2c-4d18-9d0d-1c8750080180" width="450px" />
       <br>
       <b>모바일 버전의 반응형 레이아웃</b>
     </td>
@@ -46,12 +46,13 @@ Liberté et Amour 프랑스어로 “자유와 사랑”을 의미합니다. 자
 
 <img src="https://github.com/Ryanch0/First_Project/assets/165358637/80384073-9f05-4995-86d3-36266e2c1f8b" width = "1000px"/>
 <b>회원가입 페이지</b>
-- express의 세션라이브러리와 passport로 세션방식 로그인을 구현하였으며 유저데이터는 mongoDB로 저장했습니다. 회원가입시 input값에 대한 예외처리를 정규표현식으로 처리했습니다(Email형식, password일치, 전화번호 형식, null값 혹은 빈 문자열 처리 등)
-React에서 회원상태 관리는 Redux로 전역으로 관리했습니다
+<br></br>
+- express의 세션라이브러리와 passport로 세션방식 로그인을 구현하였으며 유저데이터는 mongoDB로 저장했습니다. 회원가입시 input값에 대한 예외처리를 정규표현식으로 처리했습니다(Email형식, password일치, 전화번호 형식, null값 혹은 빈 문자열 처리 등).
+- React에서 회원상태 관리는 Redux로 전역으로 관리했습니다.
 
 <br></br>
 
-<table>
+<table style="width:100%">
   <tr>
     <td align="center">
       <img src="https://github.com/Ryanch0/First_Project/assets/165358637/0cdbd2fa-a929-45b1-915b-175a7c95417a" width="470px" />
@@ -66,6 +67,24 @@ React에서 회원상태 관리는 Redux로 전역으로 관리했습니다
   </tr>
 </table>
 
+<br></br>
+
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/b7fedb7e-c1b8-4484-861e-4f63c3f7fc2a" width="1000px"/>
+<b>상품페이지 CSS</b>
+<br></br>
+- 유저가 상품의 상세페이지를 접속하지 않고도 모델의 착용샷을 미리 볼 수 있도록 css로 처리했습니다.
+
+<br></br>
+
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/b35a082a-fdac-4b9c-afc0-6060db058a9a" width="1000px"/>
+<b>상세페이지(미완성)</b>
+
+<br></br>
+
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/4febffdb-e9e3-49c6-a8a2-984871dd61c6" width="1000px"/>
+<b>마이페이지</b>
+<br></br>
+- 비밀번호 수정기능과 간단한 회원정보만 출력했습니다.
 
 
 
