@@ -1,0 +1,278 @@
+div {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.title {
+  padding: 80px;
+  text-align: center;
+}
+
+.title p {
+  font-size: 80%;
+  line-height: 8px;
+}
+
+.footer {
+  background-color: white;
+  font-size: 14px;
+  color: black;
+  padding: 20px;
+  text-align: end;
+}
+
+.brandName {
+  font-family: 'Gothic, sans-serif';
+  font-size: 40px;
+}
+
+.sidebar {
+  position: fixed;
+  width: 15vw;
+  height: 100vw;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  z-index: 2;
+}
+
+.logo {
+  font-family: sans-serif;
+  font-size: 22px;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-right: 30px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+
+
+.sidebar a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.menu {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+  font-size: 14px;
+
+}
+
+.menu li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.navmodal {
+  opacity: 0;
+  will-change: opacity;
+  transform: translateX(15%);
+}
+
+.navmodal2 {
+  opacity: 0.5;
+  transition: all 0.5s;
+}
+
+.spaceForSide {
+  transform: translateX(20%);
+  padding-top: 80px;
+  padding-right: 30px;
+  padding-left: 10px;
+}
+
+.spaceForSide p {
+  font-size: 12px;
+}
+
+.spaceForSide span {
+  font-size: 12px;
+  position: relative;
+  bottom: 15px;
+}
+
+.flip-outer {
+  width: 100%;
+  height: 28vw;
+
+}
+
+.flip-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition: all 1s;
+  transform-style: preserve-3d;
+
+}
+
+.flip-inner:hover {
+  transform: rotateY(180deg);
+}
+
+.front-img {
+  width: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+  z-index: 1;
+}
+
+.back-img {
+  width: 100%;
+  position: absolute;
+  transform: rotateY(180deg);
+
+}
+
+.navAdd {
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  z-index: 2;
+}
+
+.login {
+  width: 500px;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.login input {
+  width: 350px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.login button {
+  margin-top: 10px;
+  background-color: #eee;
+  width: 350px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  border: 1px solid black;
+}
+
+.login a {
+  text-decoration: none;
+  color: black;
+}
+
+.mypg {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #eee; */
+}
+.mypg2 {
+ margin-bottom: 50px;
+}
+.mypg2 a {
+  margin-left: 200px;
+  color: black;
+}
+
+.logout {
+  color: #000000A6;
+  
+
+}
+.logout button {
+  border: 0;
+  background-color: #F8F9FA;
+  font-weight: 300;
+}
+
+.logout2 {
+  color: #000000A6;
+
+}
+.logout2 button {
+  border: 0;
+  background-color: white;
+  font-weight: 350;
+  font-size: 15px;
+  position: relative;
+  right: 3px;
+  bottom: 3px;
+  padding: 3px;
+}
+
+.detailImg {
+  width: 50%;
+}
+
+
+
+@media screen and (max-width : 992px) {
+  .flip-outer {
+    width: 76%;
+    height: 28vw;
+  }
+
+  .logout button {
+    position: relative;
+    right: 8px;
+  }
+
+
+}
+
+@media screen and (max-width : 768px) {
+  .flip-outer {
+    width: 100%;
+    height: 50vw;
+  }
+
+
+
+  .spaceForSide {
+    transform: translateX(30%);
+  }
+
+  .title {
+    padding: 0px;
+  }
+
+}
