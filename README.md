@@ -47,7 +47,9 @@ Liberté et Amour 프랑스어로 “자유와 사랑”을 의미합니다. 자
 <img src="https://github.com/Ryanch0/First_Project/assets/165358637/80384073-9f05-4995-86d3-36266e2c1f8b" width = "1000px"/>
 <b>회원가입 페이지</b>
 <br></br>
-- express의 세션라이브러리와 passport로 세션방식 로그인을 구현하였으며 유저데이터는 mongoDB로 저장했습니다. 회원가입시 input값에 대한 예외처리를 정규표현식으로 처리했습니다(Email형식, password일치, 전화번호 형식, null값 혹은 빈 문자열 처리 등).
+- express의 세션라이브러리와 passport로 세션방식 로그인을 구현하였으며 유저데이터는 mongoDB로 저장했습니다.
+<br></br>
+- 회원가입시 input값에 대한 예외처리를 정규표현식으로 처리했습니다(Email형식, password일치, 전화번호 형식, null값 혹은 빈 문자열 처리 등).
 <br></br>
 - React에서 회원상태 관리는 Redux로 전역으로 관리했습니다.
 
