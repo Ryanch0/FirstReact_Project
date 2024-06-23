@@ -1,4 +1,4 @@
-# First_Project
+# Liberté et Amour
 
 <p align="center">
 <img src="https://github.com/Ryanch0/First_Project/assets/165358637/3f764319-bbb4-4cd1-93e1-13946ac9a23d" width="300px"/>
