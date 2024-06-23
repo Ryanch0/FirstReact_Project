@@ -43,8 +43,9 @@ Liberté et Amour는 프랑스어로 “자유와 사랑”을 의미합니다. 
 </p>
 
 <br></br>
-
-<img src="https://github.com/Ryanch0/First_Project/assets/165358637/80384073-9f05-4995-86d3-36266e2c1f8b" width = "1000px"/>
+<p align="center">
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/80384073-9f05-4995-86d3-36266e2c1f8b" width = "900px"/>
+</p>
 <b>회원가입 페이지</b>
 <br></br>
 - express의 세션라이브러리와 passport로 세션방식 로그인을 구현하였으며 유저데이터는 mongoDB로 저장했습니다.
@@ -71,20 +72,23 @@ Liberté et Amour는 프랑스어로 “자유와 사랑”을 의미합니다. 
 </table>
 
 <br></br>
-
-<img src="https://github.com/Ryanch0/First_Project/assets/165358637/b7fedb7e-c1b8-4484-861e-4f63c3f7fc2a" width="1000px"/>
+<p align="center">
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/b7fedb7e-c1b8-4484-861e-4f63c3f7fc2a" width="900px"/>
+</p>  
 <b>상품페이지 CSS</b>
 <br></br>
 - 유저가 상품의 상세페이지를 접속하지 않고도 모델의 착용샷을 미리 볼 수 있도록 css로 처리했습니다.
 
 <br></br>
-
-<img src="https://github.com/Ryanch0/First_Project/assets/165358637/b35a082a-fdac-4b9c-afc0-6060db058a9a" width="1000px"/>
+<p align="center">
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/b35a082a-fdac-4b9c-afc0-6060db058a9a" width="900px"/>
+</p>
 <b>상세페이지(미완성)</b>
 
 <br></br>
-
-<img src="https://github.com/Ryanch0/First_Project/assets/165358637/4febffdb-e9e3-49c6-a8a2-984871dd61c6" width="1000px"/>
+<p align="center">
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/4febffdb-e9e3-49c6-a8a2-984871dd61c6" width="900px"/>
+</p>
 <b>마이페이지</b>
 <br></br>
 - 비밀번호 수정기능과 간단한 회원정보만 출력했습니다.
