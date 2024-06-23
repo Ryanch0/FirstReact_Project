@@ -70,6 +70,8 @@ Liberté et Amour는 프랑스어로 “자유와 사랑”을 의미합니다. 
     </td>
   </tr>
 </table>
+<b>상품 페이지</b>
+- 모든 이미지와 상품명, 가격등 정보는 모두 github에 JSON파일로 만들어서 ajax요청을 통해 데이터를 받았습니다.
 
 <br></br>
 <p align="center">
