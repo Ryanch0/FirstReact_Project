@@ -27,20 +27,20 @@ Liberté et Amour 프랑스어로 “자유와 사랑”을 의미합니다. 자
 <br></br>
 
 ## 화면 구성
-<table style="width:100%">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Ryanch0/First_Project/assets/165358637/0cfbdbcc-4697-4b2b-a8c7-0e4d7c68c3a7" width="400px" />
-      <br>
-      <b>PC버전 메인페이지</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Ryanch0/First_Project/assets/165358637/210b9cbc-2d2c-4d18-9d0d-1c8750080180" width="400px" />
-      <br>
-      <b>모바일 버전의 반응형 레이아웃</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/0cfbdbcc-4697-4b2b-a8c7-0e4d7c68c3a7" width="800px" />
+</p>
+<p align="center">
+<b>PC버전 메인페이지</b>
+</p>
+
+<br></br>
+<p align="center">
+<img src="https://github.com/Ryanch0/First_Project/assets/165358637/210b9cbc-2d2c-4d18-9d0d-1c8750080180" width="600px" />
+</p>
+<p align="center">
+<b>모바일 버전의 반응형 레이아웃</b>
+</p>
 
 <br></br>
 
